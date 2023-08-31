@@ -19,8 +19,12 @@ For the connection between a computer and the numpad, I'm using the built-in fem
 
 ## Parts Needed
 - STM32F108C8T6 "Bluepill" development board.
+
 ![](images/stm32.png)
+
 - 25 HY-7070-W switches.
+
 ![](images/hy7070w.png)
+
 - Micro USB cable.
 - 3D printed pats.
