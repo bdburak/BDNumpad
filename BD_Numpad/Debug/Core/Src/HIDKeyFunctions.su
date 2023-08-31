@@ -1,0 +1,9 @@
+../Core/Src/HIDKeyFunctions.c:39:6:pressKey	16	static
+../Core/Src/HIDKeyFunctions.c:82:6:pressModifierKey	16	static
+../Core/Src/HIDKeyFunctions.c:93:6:pressNumlock	16	static
+../Core/Src/HIDKeyFunctions.c:149:6:readRow1	8	static
+../Core/Src/HIDKeyFunctions.c:183:6:readRow2	8	static
+../Core/Src/HIDKeyFunctions.c:214:6:readRow3	8	static
+../Core/Src/HIDKeyFunctions.c:245:6:readRow4	8	static
+../Core/Src/HIDKeyFunctions.c:277:6:readRow5	8	static
+../Core/Src/HIDKeyFunctions.c:308:6:readAllPins	8	static
